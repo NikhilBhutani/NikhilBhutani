@@ -22,9 +22,6 @@ Senior / Staff Mobile Engineer turned AI-curious systems builder.
 - **[ComposeMultiplatformNewsAppDemo](https://github.com/nickel-user/ComposeMultiplatformNewsAppDemo)**
   JetBrains Compose Multiplatform app (Android + iOS) with clean MVVM architecture
 
-- **OpenClaw** *(WIP)*
-  Experimental AI agent system that actually executes tasks, not just chats
-
 - **[EasyDataAnalyzer](https://github.com/nickel-user/EasyDataAnalyzer)**
   Android network monitoring library (70+ ⭐)
 
