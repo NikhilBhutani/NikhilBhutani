@@ -12,13 +12,28 @@ Staff / Principal Mobile Engineer turned AI-curious systems builder.
 
 ### Tech Stack
 
+**Mobile & Frontend**
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+
+**Backend & Infra**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**AI & Data**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat&logo=pinecone&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-7B3FE4?style=flat&logo=polygon&logoColor=white)
 
 ---
 
@@ -39,6 +54,7 @@ Staff / Principal Mobile Engineer turned AI-curious systems builder.
 | [Android-Snippets](https://github.com/NikhilBhutani/Android-Snippets) | Android snippets demonstrating key functionalities & libraries | 34+ |
 | [ComposeMultiplatformNewsAppDemo](https://github.com/NikhilBhutani/ComposeMultiplatformNewsAppDemo) | Compose Multiplatform app (Android + iOS) with MVVM & KMP | 5 |
 | [LivescoreApp](https://github.com/NikhilBhutani/LivescoreApp) | Sports API app with Jetpack Compose & Clean Architecture | 2 |
+| [AffinityNFT-ETHGlobal](https://github.com/NikhilBhutani/AffinityNFT-ETHGlobal) | Community creator DApp with token integration, deployed on Polygon | 2 |
 
 ---
 
