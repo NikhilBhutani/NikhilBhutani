@@ -53,7 +53,7 @@ Staff / Principal Mobile Engineer turned AI-curious systems builder.
 | [EasyDataAnalyzer](https://github.com/NikhilBhutani/EasyDataAnalyzer) | Android network monitoring library | 73+ |
 | [Android-Snippets](https://github.com/NikhilBhutani/Android-Snippets) | Android snippets demonstrating key functionalities & libraries | 34+ |
 | [ComposeMultiplatformNewsAppDemo](https://github.com/NikhilBhutani/ComposeMultiplatformNewsAppDemo) | Compose Multiplatform app (Android + iOS) with MVVM & KMP | 5 |
-| [LivescoreApp](https://github.com/NikhilBhutani/LivescoreApp) | Sports API app with Jetpack Compose & Clean Architecture | 2 |
+
 | [AffinityNFT-ETHGlobal](https://github.com/NikhilBhutani/AffinityNFT-ETHGlobal) | Community creator DApp with token integration, deployed on Polygon | 2 |
 
 ---
@@ -61,6 +61,7 @@ Staff / Principal Mobile Engineer turned AI-curious systems builder.
 ### GitHub Stats
 
 <p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NikhilBhutani&show_icons=true&hide_title=true&theme=default" />
   <img height="160" src="https://streak-stats.demolab.com?user=NikhilBhutani&theme=default" />
 </p>
 
