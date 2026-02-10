@@ -45,8 +45,7 @@ Staff / Principal Mobile Engineer turned AI-curious systems builder.
 ### GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NikhilBhutani&show_icons=true&hide_title=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilBhutani&layout=compact&hide=css,html&theme=default" />
+  <img height="160" src="https://streak-stats.demolab.com?user=NikhilBhutani&theme=default" />
 </p>
 
 ---
