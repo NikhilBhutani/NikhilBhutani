@@ -39,11 +39,10 @@ Staff / Principal Mobile Engineer turned AI-curious systems builder.
 
 ### What I'm working on now
 
+- 🧪 Building **on-device AI Infra** and inference-first product design
 - 🤖 **AI agents** for lead generation, document intelligence & workflow automation
 - 📱 **Kotlin Multiplatform** apps (Android, iOS, Desktop)
 - ⚙️ Backend systems with **TypeScript / Node / Fastify / Postgres**
-- 🧪 Exploring **on-device AI** and inference-first product design
-
 ---
 
 ### Selected Projects
